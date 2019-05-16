@@ -15,12 +15,12 @@ def third_challenge
         status: "alive"
         },
       :hero_friends => [
-        first_friend: {
+        {
           name: "Benvolio",
           age: "17",
           attitude: "worried"
         }, 
-        second_friend: {
+        {
           name: "Mercutio",
           age: "18",
           attitude: "hot-headed"
@@ -42,12 +42,12 @@ def third_challenge
         status: "alive"
         },
       :heroine_friends => [
-        first_friend: {
+        {
           name: "Steven",
           age: "30",
           attitude: "confused"
         }, 
-        second_friend: {
+        {
           name: "Nurse",
           age: "44",
           attitude: "worried"
